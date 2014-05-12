@@ -1,0 +1,2199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"b",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"BO",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"thi",
+				"thisUserId"
+			],
+			[
+				"user",
+				"userIdField"
+			],
+			[
+				"link",
+				"linkButton"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"var",
+				"varname"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"fo",
+				"Form"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"vi",
+				"viewProfile"
+			],
+			[
+				"userID",
+				"userIdField"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"v",
+				"vars"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"USER",
+				"userId"
+			],
+			[
+				"log",
+				"login_user"
+			],
+			[
+				"se",
+				"session_start"
+			],
+			[
+				"PHP",
+				"PHP_SESSION_DISABLED"
+			],
+			[
+				"my",
+				"mypassword"
+			],
+			[
+				"mysql_es",
+				"mysql_real_escape_string"
+			],
+			[
+				"sel",
+				"selling_prc"
+			],
+			[
+				"pri",
+				"priKeyData"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"sho",
+				"showPanel"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"gr",
+				"groupsUserIn"
+			],
+			[
+				"show",
+				"showRelatedData"
+			],
+			[
+				"al",
+				"allGroups"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"use",
+				"usersGroups"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"fr",
+				"friends_owner"
+			],
+			[
+				"friends",
+				"friends_of"
+			],
+			[
+				"get_",
+				"get_results"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ad",
+				"adminrow"
+			],
+			[
+				"adm",
+				"adminres"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql_in",
+				"mysql_insert_id"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"prim",
+				"primary-nav"
+			],
+			[
+				"sa",
+				"sales_kits"
+			],
+			[
+				"be",
+				"belongsTo"
+			],
+			[
+				"side",
+				"sidebar_amenities_id"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"inp",
+				"Input"
+			],
+			[
+				"blo",
+				"blockid"
+			],
+			[
+				"block",
+				"blockid"
+			],
+			[
+				"bl",
+				"blockid"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"with",
+				"withErrors"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"Red",
+				"Redirect"
+			],
+			[
+				"unit",
+				"unit_number"
+			],
+			[
+				"fast",
+				"fastBooking"
+			],
+			[
+				"fas",
+				"fastbooking"
+			],
+			[
+				"boo",
+				"bookingid"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"RE",
+				"Redirect"
+			],
+			[
+				"purch",
+				"purchaser"
+			],
+			[
+				"form",
+				"Form"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"nric",
+				"nric_no"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"is",
+				"isFinValid"
+			],
+			[
+				"vide",
+				"videoable_id"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"a",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# -*- coding: utf-8 -*-\n\nimport logging\n\nfrom flask.ext import wtf\nfrom google.appengine.api import mail\nimport flask\n\nimport config\nimport util\n\napp = flask.Flask(__name__)\napp.config.from_object(config)\napp.jinja_env.line_statement_prefix = '#'\napp.jinja_env.line_comment_prefix = '##'\napp.jinja_env.globals.update(slugify=util.slugify)\napp.jinja_env.globals.update(update_query_argument=util.update_query_argument)\n\n\nimport admin\nimport auth\nimport user\nimport contact\nimport memory\n\n\nif config.DEVELOPMENT:\n  from werkzeug import debug\n  app.wsgi_app = debug.DebuggedApplication(app.wsgi_app, evalex=True)\n\n\n###############################################################################\n# Main page\n###############################################################################\n@app.route('/')\ndef welcome():\n  return flask.render_template('welcome.html', html_class='welcome')\n\n   \n    \n###############################################################################\n# Sitemap stuff\n###############################################################################\n@app.route('/sitemap.xml')\ndef sitemap():\n  response = flask.make_response(flask.render_template(\n      'sitemap.xml',\n      host_url=flask.request.host_url[:-1],\n      lastmod=config.CURRENT_VERSION_DATE.strftime('%Y-%m-%d'),\n    ))\n  response.headers['Content-Type'] = 'application/xml'\n  return response\n\n\n###############################################################################\n# Profile stuff\n###############################################################################\nclass ProfileUpdateForm(wtf.Form):\n  name = wtf.StringField('Name',\n      [wtf.validators.required()], filters=[util.strip_filter],\n    )\n  email = wtf.StringField('Email',\n      [wtf.validators.optional(), wtf.validators.email()],\n      filters=[util.email_filter],\n    )\n\n\n@app.route('/_s/profile/', endpoint='profile_service')\n@app.route('/profile/', methods=['GET', 'POST'])\n@auth.login_required\ndef profile():\n  user_db = auth.current_user_db()\n  form = ProfileUpdateForm(obj=user_db)\n\n  if form.validate_on_submit():\n    form.populate_obj(user_db)\n    user_db.put()\n    return flask.redirect(flask.url_for('welcome'))\n\n  if flask.request.path.startswith('/_s/'):\n    return util.jsonify_model_db(user_db)\n\n  return flask.render_template(\n      'profile.html',\n      title=user_db.name,\n      html_class='profile',\n      form=form,\n      user_db=user_db,\n      has_json=True,\n    )\n\n\n###############################################################################\n# Feedback\n###############################################################################\nclass FeedbackForm(wtf.Form):\n  subject = wtf.StringField('Subject',\n      [wtf.validators.required()], filters=[util.strip_filter],\n    )\n  message = wtf.TextAreaField('Message',\n      [wtf.validators.required()], filters=[util.strip_filter],\n    )\n  email = wtf.StringField('Email (optional)',\n      [wtf.validators.optional(), wtf.validators.email()],\n      filters=[util.email_filter],\n    )\n\n\n@app.route('/feedback/', methods=['GET', 'POST'])\ndef feedback():\n  if not config.CONFIG_DB.feedback_email:\n    return flask.abort(418)\n\n  form = FeedbackForm(obj=auth.current_user_db())\n  if form.validate_on_submit():\n    mail.send_mail(\n        sender=config.CONFIG_DB.feedback_email,\n        to=config.CONFIG_DB.feedback_email,\n        subject='[%s] %s' % (\n            config.CONFIG_DB.brand_name,\n            form.subject.data,\n          ),\n        reply_to=form.email.data or config.CONFIG_DB.feedback_email,\n        body='%s\\n\\n%s' % (form.message.data, form.email.data)\n      )\n    flask.flash('Thank you for your feedback!', category='success')\n    return flask.redirect(flask.url_for('welcome'))\n\n  return flask.render_template(\n      'feedback.html',\n      title='Feedback',\n      html_class='feedback',\n      form=form,\n    )\n\n\n###############################################################################\n# Error Handling\n###############################################################################\n@app.errorhandler(400)  # Bad Request\n@app.errorhandler(401)  # Unauthorized\n@app.errorhandler(403)  # Forbidden\n@app.errorhandler(404)  # Not Found\n@app.errorhandler(405)  # Method Not Allowed\n@app.errorhandler(410)  # Gone\n@app.errorhandler(418)  # I'm a Teapot\n@app.errorhandler(500)  # Internal Server Error\ndef error_handler(e):\n  logging.exception(e)\n  try:\n    e.code\n  except AttributeError:\n    e.code = 500\n    e.name = 'Internal Server Error'\n\n  if flask.request.path.startswith('/_s/'):\n    return util.jsonpify({\n        'status': 'error',\n        'error_code': e.code,\n        'error_name': util.slugify(e.name),\n        'error_message': e.name,\n        'error_class': e.__class__.__name__,\n      }), e.code\n\n  return flask.render_template(\n      'error.html',\n      title='Error %d (%s)!!1' % (e.code, e.name),\n      html_class='error-page',\n      error=e,\n    ), e.code\n\n\nif config.PRODUCTION:\n  @app.errorhandler(Exception)\n  def production_error_handler(e):\n    return error_handler(e)\n",
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/main.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 5034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from flask import Flask, request\nfrom flask import render_template\nimport urllib2\nimport json\nimport random\nimport uuid\nfrom google.appengine.api import users\nfrom google.appengine.api import channel\nfrom utilities import funnames\n\nimport auth\n\nfrom main import app\n\n  \n@app.route('/single/')\ndef one_player():\n	return render_template('one_player.html',\n		html_class='one-player',\n		title='Memory Game'\n	)\n\n@app.route('/two_player/')\ndef two_player():\n	return render_template(\n		'two_player.html',\n		html_class='two-player',\n		title='Memory Game'\n	)\n	\n@app.route('/two_player_network/')\n@auth.login_required\ndef two_player_network():\n	\"\"\"Setup channel network game\"\"\"\n	\n	user_db = auth.current_user_db()\n	name = user_db.name\n	gameid = generate_id()\n	token = channel.create_channel(name + gameid) \n	template_values = {\n						\"gameid\":gameid,\n						\"token\": channel.create_channel(name + gameid),\n						\"yourname\": name,\n						\"url\": 'http://project4.aw620025070.appspot.com/'+name+'/'+gameid\n						}\n    \n	return render_template(\n		'host_player.html',\n		values=template_values,\n		html_class='setup-two-player-network',\n		title='Memory Game'\n	)\n\n@app.route('/<string:hostplayer>/<string:gameid>')\n@auth.login_required\ndef join_game(gameid,hostplayer):\n	\"\"\"Return a game page\"\"\"\n	user_db = auth.current_user_db()\n	name = user_db.name\n	token = channel.create_channel(name + gameid) \n	template_values = {\n						\"gameid\":gameid,\n						\"token\": channel.create_channel(name + gameid),\n						\"yourname\": name,\n						\"hostplayer\":hostplayer\n						}\n	return render_template(\"player.html\", values=template_values)\n\n\n@app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\ndef sendmessage(user,gameid):\n    \"\"\"sends a message that is useless\"\"\"\n    message = request.form['message']\n    channel.send_message(user+gameid,message)\n    \n@app.errorhandler(404)\ndef page_not_found(e):\n	\"\"\"Return a custom 404 error.\"\"\"\n	return 'Sorry, No Valid Game There.', 404\n\ndef generate_id():\n	\"\"\"Return a game id\"\"\"\n	return \"%s-%s\" % (str(uuid.uuid4())[:4],random.choice(funnames).lower())\n",
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/memory.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 2088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 578 files for \"add_url_rule\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\app.py:\n  297  \n  298      #: The rule object to use for URL rules created.  This is used by\n  299:     #: :meth:`add_url_rule`.  Defaults to :class:`werkzeug.routing.Rule`.\n  300      #:\n  301      #: .. versionadded:: 0.7\n  ...\n  505          # else when mapped with the .yml file.\n  506          if self.has_static_folder:\n  507:             self.add_url_rule(self.static_url_path + '/<path:filename>',\n  508                                endpoint='static',\n  509                                view_func=self.send_static_file)\n  ...\n  890  \n  891      @setupmethod\n  892:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n  893          \"\"\"Connects a URL rule.  Works exactly like the :meth:`route`\n  894          decorator.  If a view_func is provided it will be registered with the\n  ...\n  905              def index():\n  906                  pass\n  907:             app.add_url_rule('/', 'index', index)\n  908  \n  909          If the view_func is not provided you will need to connect the endpoint\n  ...\n  912              app.view_functions['index'] = index\n  913  \n  914:         Internally :meth:`route` invokes :meth:`add_url_rule` so if you want\n  915          to customize the behavior via subclassing you only need to change\n  916          this method.\n  ...\n  987      def route(self, rule, **options):\n  988          \"\"\"A decorator that is used to register a view function for a\n  989:         given URL rule.  This does the same thing as :meth:`add_url_rule`\n  990          but is intended for decorator usage::\n  991  \n  ...\n 1011          def decorator(f):\n 1012              endpoint = options.pop('endpoint', None)\n 1013:             self.add_url_rule(rule, endpoint, f, **options)\n 1014              return f\n 1015          return decorator\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\blueprints.py:\n   60          self.url_defaults.update(self.options.get('url_defaults', ()))\n   61  \n   62:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n   63          \"\"\"A helper method to register a rule (and optionally a view function)\n   64          to the application.  The endpoint is automatically prefixed with the\n   ..\n   73          if 'defaults' in options:\n   74              defaults = dict(defaults, **options.pop('defaults'))\n   75:         self.app.add_url_rule(rule, '%s.%s' % (self.blueprint.name, endpoint),\n   76                                view_func, defaults=defaults, **options)\n   77  \n   ..\n  146          state = self.make_setup_state(app, options, first_registration)\n  147          if self.has_static_folder:\n  148:             state.add_url_rule(self.static_url_path + '/<path:filename>',\n  149                                 view_func=self.send_static_file,\n  150                                 endpoint='static')\n  ...\n  159          def decorator(f):\n  160              endpoint = options.pop(\"endpoint\", f.__name__)\n  161:             self.add_url_rule(rule, endpoint, f, **options)\n  162              return f\n  163          return decorator\n  164  \n  165:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n  166:         \"\"\"Like :meth:`Flask.add_url_rule` but for a blueprint.  The endpoint for\n  167          the :func:`url_for` function is prefixed with the name of the blueprint.\n  168          \"\"\"\n  ...\n  170              assert '.' not in endpoint, \"Blueprint endpoint's should not contain dot's\"\n  171          self.record(lambda s:\n  172:             s.add_url_rule(rule, endpoint, view_func, **options))\n  173  \n  174      def endpoint(self, endpoint):\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\views.py:\n   21      :meth:`dispatch_request` which is called with the view arguments from\n   22      the URL routing system.  If :attr:`methods` is provided the methods\n   23:     do not have to be passed to the :meth:`~flask.Flask.add_url_rule`\n   24      method explicitly::\n   25  \n   ..\n   30                  return 'Hello %s!' % name\n   31  \n   32:         app.add_url_rule('/hello/<name>', view_func=MyView.as_view('myview'))\n   33  \n   34      When you want to decorate a pluggable view you will have to either do that\n   ..\n  138                  return 'OK'\n  139  \n  140:         app.add_url_rule('/counter', view_func=CounterAPI.as_view('counter'))\n  141      \"\"\"\n  142      def dispatch_request(self, *args, **kwargs):\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\app.py:\n  297  \n  298      #: The rule object to use for URL rules created.  This is used by\n  299:     #: :meth:`add_url_rule`.  Defaults to :class:`werkzeug.routing.Rule`.\n  300      #:\n  301      #: .. versionadded:: 0.7\n  ...\n  505          # else when mapped with the .yml file.\n  506          if self.has_static_folder:\n  507:             self.add_url_rule(self.static_url_path + '/<path:filename>',\n  508                                endpoint='static',\n  509                                view_func=self.send_static_file)\n  ...\n  890  \n  891      @setupmethod\n  892:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n  893          \"\"\"Connects a URL rule.  Works exactly like the :meth:`route`\n  894          decorator.  If a view_func is provided it will be registered with the\n  ...\n  905              def index():\n  906                  pass\n  907:             app.add_url_rule('/', 'index', index)\n  908  \n  909          If the view_func is not provided you will need to connect the endpoint\n  ...\n  912              app.view_functions['index'] = index\n  913  \n  914:         Internally :meth:`route` invokes :meth:`add_url_rule` so if you want\n  915          to customize the behavior via subclassing you only need to change\n  916          this method.\n  ...\n  987      def route(self, rule, **options):\n  988          \"\"\"A decorator that is used to register a view function for a\n  989:         given URL rule.  This does the same thing as :meth:`add_url_rule`\n  990          but is intended for decorator usage::\n  991  \n  ...\n 1011          def decorator(f):\n 1012              endpoint = options.pop('endpoint', None)\n 1013:             self.add_url_rule(rule, endpoint, f, **options)\n 1014              return f\n 1015          return decorator\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\blueprints.py:\n   60          self.url_defaults.update(self.options.get('url_defaults', ()))\n   61  \n   62:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n   63          \"\"\"A helper method to register a rule (and optionally a view function)\n   64          to the application.  The endpoint is automatically prefixed with the\n   ..\n   73          if 'defaults' in options:\n   74              defaults = dict(defaults, **options.pop('defaults'))\n   75:         self.app.add_url_rule(rule, '%s.%s' % (self.blueprint.name, endpoint),\n   76                                view_func, defaults=defaults, **options)\n   77  \n   ..\n  146          state = self.make_setup_state(app, options, first_registration)\n  147          if self.has_static_folder:\n  148:             state.add_url_rule(self.static_url_path + '/<path:filename>',\n  149                                 view_func=self.send_static_file,\n  150                                 endpoint='static')\n  ...\n  159          def decorator(f):\n  160              endpoint = options.pop(\"endpoint\", f.__name__)\n  161:             self.add_url_rule(rule, endpoint, f, **options)\n  162              return f\n  163          return decorator\n  164  \n  165:     def add_url_rule(self, rule, endpoint=None, view_func=None, **options):\n  166:         \"\"\"Like :meth:`Flask.add_url_rule` but for a blueprint.  The endpoint for\n  167          the :func:`url_for` function is prefixed with the name of the blueprint.\n  168          \"\"\"\n  ...\n  170              assert '.' not in endpoint, \"Blueprint endpoint's should not contain dot's\"\n  171          self.record(lambda s:\n  172:             s.add_url_rule(rule, endpoint, view_func, **options))\n  173  \n  174      def endpoint(self, endpoint):\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\views.py:\n   21      :meth:`dispatch_request` which is called with the view arguments from\n   22      the URL routing system.  If :attr:`methods` is provided the methods\n   23:     do not have to be passed to the :meth:`~flask.Flask.add_url_rule`\n   24      method explicitly::\n   25  \n   ..\n   30                  return 'Hello %s!' % name\n   31  \n   32:         app.add_url_rule('/hello/<name>', view_func=MyView.as_view('myview'))\n   33  \n   34      When you want to decorate a pluggable view you will have to either do that\n   ..\n  138                  return 'OK'\n  139  \n  140:         app.add_url_rule('/counter', view_func=CounterAPI.as_view('counter'))\n  141      \"\"\"\n  142      def dispatch_request(self, *args, **kwargs):\n\n34 matches across 6 files\n\n\nSearching 578 files for \"route()\"\n\n0 matches across 0 files\n\n\nSearching 578 files for \"*route()\"\n\n0 matches across 0 files\n\n\nSearching 578 files for \"route('\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\admin.py:\n   26  \n   27  \n   28: @app.route('/_s/admin/config/', endpoint='admin_config_update_service')\n   29: @app.route('/admin/config/', methods=['GET', 'POST'])\n   30  @auth.admin_required\n   31  def admin_config_update():\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\auth.py:\n  139  # Sign in stuff\n  140  ###############################################################################\n  141: @app.route('/login/')\n  142: @app.route('/signin/')\n  143  def signin():\n  144    next_url = util.get_next_url()\n  ...\n  161  \n  162  \n  163: @app.route('/signout/')\n  164  def signout():\n  165    login.logout_user()\n  ...\n  171  # Google\n  172  ###############################################################################\n  173: @app.route('/signin/google/')\n  174  def signin_google():\n  175    google_url = users.create_login_url(\n  ...\n  179  \n  180  \n  181: @app.route('/_s/callback/google/authorized/')\n  182  def google_authorized():\n  183    google_user = users.get_current_user()\n  ...\n  225  \n  226  \n  227: @app.route('/_s/callback/twitter/oauth-authorized/')\n  228  @twitter.authorized_handler\n  229  def twitter_authorized(resp):\n  ...\n  245  \n  246  \n  247: @app.route('/signin/twitter/')\n  248  def signin_twitter():\n  249    flask.session.pop('oauth_token', None)\n  ...\n  291  \n  292  \n  293: @app.route('/_s/callback/facebook/oauth-authorized/')\n  294  @facebook.authorized_handler\n  295  def facebook_authorized(resp):\n  ...\n  309  \n  310  \n  311: @app.route('/signin/facebook/')\n  312  def signin_facebook():\n  313    return facebook.authorize(callback=flask.url_for('facebook_authorized',\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\contact.py:\n   13      address = wtf.TextAreaField('Address', [wtf.validators.optional()])\n   14  \n   15: @app.route('/contact/create/', methods=['GET', 'POST'])\n   16  @auth.login_required\n   17  def contact_create():\n   ..\n   35    )\n   36    \n   37: @app.route('/contact/')\n   38  @auth.login_required\n   39  def contact_list():\n   ..\n   52      )\n   53  \n   54: @app.route('/contact/<int:contact_id>/')\n   55  @auth.login_required\n   56  def contact_view(contact_id):\n   ..\n   65      )\n   66  \n   67: @app.route('/contact/<int:contact_id>/update/', methods=['GET', 'POST'])\n   68  @auth.login_required\n   69  def contact_update(contact_id):\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\app.py:\n  897          Basically this example::\n  898  \n  899:             @app.route('/')\n  900              def index():\n  901                  pass\n  ...\n  990          but is intended for decorator usage::\n  991  \n  992:             @app.route('/')\n  993              def index():\n  994                  return 'Hello World'\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\ctx.py:\n   48      Example::\n   49  \n   50:         @app.route('/')\n   51          def index():\n   52              @after_this_request\n   ..\n   77          from flask import copy_current_request_context\n   78  \n   79:         @app.route('/')\n   80          def index():\n   81              @copy_current_request_context\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\helpers.py:\n   74          from flask import stream_with_context, request, Response\n   75  \n   76:         @app.route('/stream')\n   77          def streamed_response():\n   78              @stream_with_context\n   ..\n   87          from flask import stream_with_context, request, Response\n   88  \n   89:         @app.route('/stream')\n   90          def streamed_response():\n   91              def generate():\n   ..\n  561      Example usage::\n  562  \n  563:         @app.route('/wiki/<path:filename>')\n  564          def wiki_page(filename):\n  565              filename = safe_join(app.config['WIKI_FOLDER'], filename)\n  ...\n  590      Example usage::\n  591  \n  592:         @app.route('/uploads/<path:filename>')\n  593          def download_file(filename):\n  594              return send_from_directory(app.config['UPLOAD_FOLDER'],\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask\\json.py:\n  208          from flask import jsonify\n  209  \n  210:         @app.route('/_get_current_user')\n  211          def get_current_user():\n  212              return jsonify(username=g.user.username,\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\lib\\flask_login.py:\n  703      example::\n  704  \n  705:         @app.route('/post')\n  706          @login_required\n  707          def post():\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\main.py:\n   33  # Main page\n   34  ###############################################################################\n   35: @app.route('/')\n   36  def welcome():\n   37    return flask.render_template('welcome.html', html_class='welcome')\n   ..\n   42  # Sitemap stuff\n   43  ###############################################################################\n   44: @app.route('/sitemap.xml')\n   45  def sitemap():\n   46    response = flask.make_response(flask.render_template(\n   ..\n   66  \n   67  \n   68: @app.route('/_s/profile/', endpoint='profile_service')\n   69: @app.route('/profile/', methods=['GET', 'POST'])\n   70  @auth.login_required\n   71  def profile():\n   ..\n  107  \n  108  \n  109: @app.route('/feedback/', methods=['GET', 'POST'])\n  110  def feedback():\n  111    if not config.CONFIG_DB.feedback_email:\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   14  \n   15    \n   16: @app.route('/one_player/')\n   17  def one_player():\n   18  	return render_template(\n   ..\n   22  	)\n   23  \n   24: @app.route('/two_player/')\n   25  def two_player():\n   26  	return render_template(\n   ..\n   30  	)\n   31  	\n   32: @app.route('/two_player_network/')\n   33  @auth.login_required\n   34  def two_player_network():\n   ..\n   53  	)\n   54  \n   55: @app.route('/<string:hostplayer>/<string:gameid>')\n   56  @auth.login_required\n   57  def join_game(gameid,hostplayer):\n   ..\n   69  \n   70  \n   71: @app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\n   72  def sendmessage(user,gameid):\n   73      \"\"\"sends a message that is useless\"\"\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\user.py:\n   17  # User List\n   18  ###############################################################################\n   19: @app.route('/_s/user/', endpoint='user_list_service')\n   20: @app.route('/user/')\n   21  @auth.admin_required\n   22  def user_list():\n   ..\n   82  \n   83  \n   84: @app.route('/user/<int:user_id>/update/', methods=['GET', 'POST'])\n   85  @auth.admin_required\n   86  def user_update(user_id):\n   ..\n  123  # User Delete\n  124  ###############################################################################\n  125: @app.route('/_s/user/delete/', methods=['DELETE'])\n  126  @auth.admin_required\n  127  def user_delete_service():\n  ...\n  156  \n  157  \n  158: @app.route('/_s/user/merge/')\n  159: @app.route('/user/merge/', methods=['GET', 'POST'])\n  160  @auth.admin_required\n  161  def user_merge():\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\admin.py:\n   26  \n   27  \n   28: @app.route('/_s/admin/config/', endpoint='admin_config_update_service')\n   29: @app.route('/admin/config/', methods=['GET', 'POST'])\n   30  @auth.admin_required\n   31  def admin_config_update():\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\auth.py:\n  139  # Sign in stuff\n  140  ###############################################################################\n  141: @app.route('/login/')\n  142: @app.route('/signin/')\n  143  def signin():\n  144    next_url = util.get_next_url()\n  ...\n  161  \n  162  \n  163: @app.route('/signout/')\n  164  def signout():\n  165    login.logout_user()\n  ...\n  171  # Google\n  172  ###############################################################################\n  173: @app.route('/signin/google/')\n  174  def signin_google():\n  175    google_url = users.create_login_url(\n  ...\n  179  \n  180  \n  181: @app.route('/_s/callback/google/authorized/')\n  182  def google_authorized():\n  183    google_user = users.get_current_user()\n  ...\n  225  \n  226  \n  227: @app.route('/_s/callback/twitter/oauth-authorized/')\n  228  @twitter.authorized_handler\n  229  def twitter_authorized(resp):\n  ...\n  245  \n  246  \n  247: @app.route('/signin/twitter/')\n  248  def signin_twitter():\n  249    flask.session.pop('oauth_token', None)\n  ...\n  291  \n  292  \n  293: @app.route('/_s/callback/facebook/oauth-authorized/')\n  294  @facebook.authorized_handler\n  295  def facebook_authorized(resp):\n  ...\n  309  \n  310  \n  311: @app.route('/signin/facebook/')\n  312  def signin_facebook():\n  313    return facebook.authorize(callback=flask.url_for('facebook_authorized',\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\contact.py:\n   13      address = wtf.TextAreaField('Address', [wtf.validators.optional()])\n   14  \n   15: @app.route('/contact/create/', methods=['GET', 'POST'])\n   16  @auth.login_required\n   17  def contact_create():\n   ..\n   35    )\n   36    \n   37: @app.route('/contact/')\n   38  @auth.login_required\n   39  def contact_list():\n   ..\n   52      )\n   53  \n   54: @app.route('/contact/<int:contact_id>/')\n   55  @auth.login_required\n   56  def contact_view(contact_id):\n   ..\n   65      )\n   66  \n   67: @app.route('/contact/<int:contact_id>/update/', methods=['GET', 'POST'])\n   68  @auth.login_required\n   69  def contact_update(contact_id):\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\app.py:\n  897          Basically this example::\n  898  \n  899:             @app.route('/')\n  900              def index():\n  901                  pass\n  ...\n  990          but is intended for decorator usage::\n  991  \n  992:             @app.route('/')\n  993              def index():\n  994                  return 'Hello World'\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\ctx.py:\n   48      Example::\n   49  \n   50:         @app.route('/')\n   51          def index():\n   52              @after_this_request\n   ..\n   77          from flask import copy_current_request_context\n   78  \n   79:         @app.route('/')\n   80          def index():\n   81              @copy_current_request_context\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\helpers.py:\n   74          from flask import stream_with_context, request, Response\n   75  \n   76:         @app.route('/stream')\n   77          def streamed_response():\n   78              @stream_with_context\n   ..\n   87          from flask import stream_with_context, request, Response\n   88  \n   89:         @app.route('/stream')\n   90          def streamed_response():\n   91              def generate():\n   ..\n  561      Example usage::\n  562  \n  563:         @app.route('/wiki/<path:filename>')\n  564          def wiki_page(filename):\n  565              filename = safe_join(app.config['WIKI_FOLDER'], filename)\n  ...\n  590      Example usage::\n  591  \n  592:         @app.route('/uploads/<path:filename>')\n  593          def download_file(filename):\n  594              return send_from_directory(app.config['UPLOAD_FOLDER'],\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask\\json.py:\n  208          from flask import jsonify\n  209  \n  210:         @app.route('/_get_current_user')\n  211          def get_current_user():\n  212              return jsonify(username=g.user.username,\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\lib\\flask_login.py:\n  703      example::\n  704  \n  705:         @app.route('/post')\n  706          @login_required\n  707          def post():\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\main.py:\n   33  # Main page\n   34  ###############################################################################\n   35: @app.route('/')\n   36  def welcome():\n   37    return flask.render_template('welcome.html', html_class='welcome')\n   ..\n   42  # Sitemap stuff\n   43  ###############################################################################\n   44: @app.route('/sitemap.xml')\n   45  def sitemap():\n   46    response = flask.make_response(flask.render_template(\n   ..\n   66  \n   67  \n   68: @app.route('/_s/profile/', endpoint='profile_service')\n   69: @app.route('/profile/', methods=['GET', 'POST'])\n   70  @auth.login_required\n   71  def profile():\n   ..\n  107  \n  108  \n  109: @app.route('/feedback/', methods=['GET', 'POST'])\n  110  def feedback():\n  111    if not config.CONFIG_DB.feedback_email:\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\memory.py:\n   14  \n   15    \n   16: @app.route('/one_player/')\n   17  def one_player():\n   18  	return render_template(\n   ..\n   22  	)\n   23  \n   24: @app.route('/two_player/')\n   25  def two_player():\n   26  	return render_template(\n   ..\n   30  	)\n   31  	\n   32: @app.route('/two_player_network/')\n   33  @auth.login_required\n   34  def two_player_network():\n   ..\n   53  	)\n   54  \n   55: @app.route('/<string:hostplayer>/<string:gameid>')\n   56  @auth.login_required\n   57  def join_game(gameid,hostplayer):\n   ..\n   69  \n   70  \n   71: @app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\n   72  def sendmessage(user,gameid):\n   73      \"\"\"sends a message that is useless\"\"\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project4\\user.py:\n   17  # User List\n   18  ###############################################################################\n   19: @app.route('/_s/user/', endpoint='user_list_service')\n   20: @app.route('/user/')\n   21  @auth.admin_required\n   22  def user_list():\n   ..\n   82  \n   83  \n   84: @app.route('/user/<int:user_id>/update/', methods=['GET', 'POST'])\n   85  @auth.admin_required\n   86  def user_update(user_id):\n   ..\n  123  # User Delete\n  124  ###############################################################################\n  125: @app.route('/_s/user/delete/', methods=['DELETE'])\n  126  @auth.admin_required\n  127  def user_delete_service():\n  ...\n  156  \n  157  \n  158: @app.route('/_s/user/merge/')\n  159: @app.route('/user/merge/', methods=['GET', 'POST'])\n  160  @auth.admin_required\n  161  def user_merge():\n\n82 matches across 22 files\n\n\nSearching 284 files for \"two_player_network\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   30  	)\n   31  	\n   32: # @app.route('/two_player_network/')\n   33  # @auth.login_required\n   34: # def two_player_network():\n   35  # 	\"\"\"Setup channel network game\"\"\"\n   36  	\n\n2 matches in 1 file\n\n\nSearching 284 files for \"two_player_network(\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   32  # @app.route('/two_player_network/')\n   33  # @auth.login_required\n   34: # def two_player_network():\n   35  # 	\"\"\"Setup channel network game\"\"\"\n   36  	\n\n1 match in 1 file\n\n\nSearching 284 files for \"join_game(\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   55  # @app.route('/<string:hostplayer>/<string:gameid>')\n   56  # @auth.login_required\n   57: # def join_game(gameid,hostplayer):\n   58  # 	\"\"\"Return a game page\"\"\"\n   59  # 	user_db = auth.current_user_db()\n\n1 match in 1 file\n\n\nSearching 284 files for \"sendmessage(\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   70  \n   71  # @app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\n   72: # def sendmessage(user,gameid):\n   73  #     \"\"\"sends a message that is useless\"\"\"\n   74  #     message = request.form['message']\n\n1 match in 1 file\n\n\nSearching 284 files for \"generate_id(\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   37  # 	user_db = auth.current_user_db()\n   38  # 	name = user_db.name\n   39: # 	gameid = generate_id()\n   40  # 	token = channel.create_channel(name + gameid) \n   41  # 	template_values = {\n   ..\n   80  	return 'Sorry, You missed it. Seriously, no game here.', 404\n   81  \n   82: # def generate_id():\n   83  # 	\"\"\"Return a game id\"\"\"\n   84  # 	return \"%s-%s\" % (str(uuid.uuid4())[:4],random.choice(funnames).lower())\n\n2 matches in 1 file\n\n\nSearching 284 files for \"generate_id\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   37  # 	user_db = auth.current_user_db()\n   38  # 	name = user_db.name\n   39: # 	gameid = generate_id()\n   40  # 	token = channel.create_channel(name + gameid) \n   41  # 	template_values = {\n   ..\n   80  	return 'Sorry, You missed it. Seriously, no game here.', 404\n   81  \n   82: # def generate_id():\n   83  # 	\"\"\"Return a game id\"\"\"\n   84  # 	return \"%s-%s\" % (str(uuid.uuid4())[:4],random.choice(funnames).lower())\n\n2 matches in 1 file\n\n\nSearching 284 files for \"sendmessage\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\memory.py:\n   70  \n   71  # @app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\n   72: # def sendmessage(user,gameid):\n   73  #     \"\"\"sends a message that is useless\"\"\"\n   74  #     message = request.form['message']\n\n1 match in 1 file\n\n\nSearching 284 files for \"nav class\"\n\nC:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3\\templates\\bit\\header.html:\n   10        <a class=\"navbar-brand\" href=\"{{url_for('welcome')}}\">{{config.CONFIG_DB.brand_name}}</a>\n   11      </div>\n   12:     <nav class=\"collapse navbar-collapse\" role=\"navigation\">\n   13        <ul class=\"nav navbar-nav\">\n   14          # include 'bit/contact_menu.html'\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 26724,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/app.yaml",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/main.py",
+			"settings":
+			{
+				"buffer_size": 5034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/memory.py",
+			"settings":
+			{
+				"buffer_size": 2114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# @app.route('/two_player_network/')\n# @auth.login_required\n# def two_player_network():\n# 	\"\"\"Setup channel network game\"\"\"\n	\n# 	user_db = auth.current_user_db()\n# 	name = user_db.name\n# 	gameid = generate_id()\n# 	token = channel.create_channel(name + gameid) \n# 	template_values = {\n# 						\"gameid\":gameid,\n# 						\"token\": channel.create_channel(name + gameid),\n# 						\"yourname\": name,\n# 						\"url\": 'http://project3.vr620048864.appspot.com/'+name+'/'+gameid\n# 						}\n    \n# 	return render_template(\n# 		'host_player.html',\n# 		values=template_values,\n# 		html_class='setup-two-player-network',\n# 		title='Memory Game'\n# 	)\n\n# @app.route('/<string:hostplayer>/<string:gameid>')\n# @auth.login_required\n# def join_game(gameid,hostplayer):\n# 	\"\"\"Return a game page\"\"\"\n# 	user_db = auth.current_user_db()\n# 	name = user_db.name\n# 	token = channel.create_channel(name + gameid) \n# 	template_values = {\n# 						\"gameid\":gameid,\n# 						\"token\": channel.create_channel(name + gameid),\n# 						\"yourname\": name,\n# 						\"hostplayer\":hostplayer\n# 						}\n# 	return render_template(\"player.html\", values=template_values)\n\n\n# @app.route('/sendcontent/<string:user>/<string:gameid>', methods=['GET', 'POST'])\n# def sendmessage(user,gameid):\n#     \"\"\"sends a message that is useless\"\"\"\n#     message = request.form['message']\n#     channel.send_message(user+gameid,message)\n    \n@app.errorhandler(404)\ndef page_not_found(e):\n	\"\"\"Return a custom 404 error.\"\"\"\n	return 'Sorry, You missed it. Seriously, no game here.', 404\n\n# def generate_id():\n# 	\"\"\"Return a game id\"\"\"\n# 	return \"%s-%s\" % (str(uuid.uuid4())[:4],random.choice(funnames).lower())\n",
+			"settings":
+			{
+				"buffer_size": 1639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/host_player.html",
+			"settings":
+			{
+				"buffer_size": 3513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/static/js/nav.js",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# extends 'base.html'\n\n# block header\n<link rel=\"stylesheet\" type\"text/css\" href=\"/p/css/menu.css\"/>\n<link rel=\"stylesheet\" type\"text/css\" href=\"/p/css/card_hand.css\"/>\n  <div class=\"jumbotron\">\n    <div class=\"container\">\n      <h1>Test Your Memory!</h1>\n      <p></p>\n    </div>\n  </div>\n# endblock\n\n# block content\n\n  <div class=\"row\">\n    <h1 align=\"center\" style=\"color: white;\">Please select game option :</h1>\n    <div class=\"col-sm-6 col-md-5 col-lg-4\" >\n      	<a id=\"circle_option\" href=\"{{url_for('one_player')}}\"><H2>One Player Game</H2></a>\n    </div>  \n    <div class=\"col-sm-6 col-md-5 col-lg-4\">\n  		<a id=\"circle_option\" href=\"{{url_for('two_player')}}\"><H2>Two Player Game</H2></a>\n    </div>\n	</div>	  \n# endblock\n",
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/welcome.html",
+			"file_size": 732,
+			"file_write_time": 130443657639536541,
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.html",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact_menu.html",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user_menu.html",
+			"settings":
+			{
+				"buffer_size": 970,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/static/js/two_player.js",
+			"settings":
+			{
+				"buffer_size": 14717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# -*- coding: utf-8 -*-\n\nimport os\n\nfrom google.appengine.api import app_identity\nfrom google.appengine.ext import ndb\n\nimport modelx\nimport util\n\n\n# The timestamp of the currently deployed version\nTIMESTAMP = long(os.environ.get('CURRENT_VERSION_ID').split('.')[1]) >> 28\n\n\nclass Base(ndb.Model, modelx.BaseX):\n  created = ndb.DateTimeProperty(auto_now_add=True)\n  modified = ndb.DateTimeProperty(auto_now=True)\n  version = ndb.IntegerProperty(default=TIMESTAMP)\n\n  _PROPERTIES = {\n      'key',\n      'id',\n      'version',\n      'created',\n      'modified',\n    }\n\n\nclass Config(Base, modelx.ConfigX):\n  analytics_id = ndb.StringProperty(default='')\n  announcement_html = ndb.TextProperty(default='')\n  announcement_type = ndb.StringProperty(default='info', choices=[\n      'info', 'warning', 'success', 'danger',\n    ])\n  brand_name = ndb.StringProperty(default='Totally @wesome')\n  facebook_app_id = ndb.StringProperty(default='')\n  facebook_app_secret = ndb.StringProperty(default='')\n  feedback_email = ndb.StringProperty(default='')\n  flask_secret_key = ndb.StringProperty(default=util.uuid())\n  twitter_consumer_key = ndb.StringProperty(default='')\n  twitter_consumer_secret = ndb.StringProperty(default='')\n\n  _PROPERTIES = Base._PROPERTIES.union({\n      'analytics_id',\n      'announcement_html',\n      'announcement_type',\n      'brand_name',\n      'facebook_app_id',\n      'facebook_app_secret',\n      'feedback_email',\n      'flask_secret_key',\n      'twitter_consumer_key',\n      'twitter_consumer_secret',\n    })\n\n\nclass User(Base, modelx.UserX):\n  name = ndb.StringProperty(required=True)\n  username = ndb.StringProperty(required=True)\n  email = ndb.StringProperty(default='')\n  auth_ids = ndb.StringProperty(repeated=True)\n  active = ndb.BooleanProperty(default=True)\n  admin = ndb.BooleanProperty(default=False)\n  permissions = ndb.StringProperty(repeated=True)\n\n  _PROPERTIES = Base._PROPERTIES.union({\n      'active',\n      'admin',\n      'auth_ids',\n      'avatar_url',\n      'email',\n      'name',\n      'username',\n      'permissions',\n    })\n  \nclass Contact(Base):\n  user_key = ndb.KeyProperty(kind=User, required=True)\n  name = ndb.StringProperty(required=True)\n  email = ndb.StringProperty(default='')\n  phone = ndb.StringProperty(default='')\n  address = ndb.StringProperty(default='')\n\n\nclass weekly(Base):\n  user_key = ndb.KeyProperty(kind=User, required=True)\n  name = ndb.StringProperty(required=True)\n  email = ndb.StringProperty(default='')\n  wins = ndb.IntegerProperty(default=0)\n\n\nclass alltime(Base):\n  user_key = ndb.KeyProperty(kind=User, required=True)\n  name = ndb.StringProperty(required=True)\n  email = ndb.StringProperty(default='')\n  wins = ndb.IntegerProperty(default=0)\n\n",
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/model.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 2717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "application: aw620025070\nversion: project4\nruntime: python27\napi_version: 1\nthreadsafe: true\n\nbuiltins:\n- remote_api: on\n- deferred: on\n- appstats: on\n\nlibraries:\n- name: jinja2\n  version: latest\n\nhandlers:\n- url: /favicon.ico\n  static_files: static/img/favicon.ico\n  upload: static/img/favicon.ico\n\n- url: /robots.txt\n  static_files: static/robots.txt\n  upload: static/robots.txt\n\n- url: /p/\n  static_dir: static/\n  expiration: 1000d\n\n- url: /.*\n  script: main.app\n\nskip_files:\n- ^(.*/)?#.*#\n- ^(.*/)?.*/RCS/.*\n- ^(.*/)?.*\\.bak$\n- ^(.*/)?.*\\.py[co]\n- ^(.*/)?.*~\n- ^(.*/)?Icon\\r\n- ^(.*/)?\\..*\n- ^(.*/)?app\\.yaml\n- ^(.*/)?app\\.yml\n- ^(.*/)?index\\.yaml\n- ^(.*/)?index\\.yml\n- ^lib/.*\n- ^static/dst/.*\n- ^static/ext/coffee/.*\n- ^static/ext/css/.*\n- ^static/ext/js/.*\n- ^static/ext/less/.*\n- ^static/src/.*\n",
+			"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/app.yaml",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Valdeck/Documents/project4/model.py",
+			"settings":
+			{
+				"buffer_size": 2717,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Valdeck/Documents/project4/static/js/one_player.js",
+		"/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/static/js/jquery.js",
+		"/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/model.py",
+		"/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/admin.py",
+		"/C/Users/Valdeck/Downloads/Card game/Card game/cards.html",
+		"/C/Users/Valdeck/Downloads/Card game/Card game/Event.js",
+		"/C/Users/Valdeck/Downloads/Card game/Card game/game.css",
+		"/C/Users/Valdeck/Downloads/Card game/Card game/Memory.js",
+		"/C/Users/Valdeck/Downloads/Card game/Card game/page.css",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/functions.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/index.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/footer.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/header.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve/sidebar.php",
+		"/C/xampp183/htdocs/idalo_prego/layout.html",
+		"/C/xampp183/htdocs/idalo_prego/css/layout1.css",
+		"/C/xampp183/htdocs/test/localstoragetest.html",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/css/style.css",
+		"/C/Users/Valdeck/Dropbox/@Prego Team Folder/Converted Home Page/overall_product_page.html",
+		"/C/xampp183/htdocs/idalo_prego/layout1.html",
+		"/C/xampp183/htdocs/idalo_prego/index.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/layout.html",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/style.css",
+		"/C/Users/Valdeck/Dropbox/@Prego Team Folder/Converted Home Page/css/style.css",
+		"/C/Users/Valdeck/Dropbox/@Prego Team Folder/Converted Home Page/css/overall_product_style.css",
+		"/C/xampp183/htdocs/idalo_prego/styleold.css",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/sidebar-2.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/sidebar-1.php",
+		"/C/xampp183/htdocs/socialflikx/Flikx/login.php",
+		"/C/xampp183/htdocs/socialflikx/common/header.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/roles/edit.blade.php",
+		"/C/xampp/htdocs/socialflikx/socialdb(2).sql",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/layouts/base.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/public/css/eo.min.css",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/controllers/LotsController.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/includes/menu.blade.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve-child/carousel-1.php",
+		"/C/xampp183/htdocs/socialflikx/common/process.php",
+		"/C/xampp183/htdocs/socialflikx/dashboard.php",
+		"/C/xampp183/htdocs/socialflikx/profile/index.php",
+		"/C/xampp183/htdocs/socialflikx/index.php",
+		"/C/xampp183/htdocs/socialflikx/post/index.php",
+		"/C/xampp183/htdocs/socialflikx/common/VCrud.class.php",
+		"/C/xampp183/htdocs/socialflikx/common/ProcessVCrud.php",
+		"/C/xampp183/htdocs/socialflikx/common/setup.php",
+		"/C/xampp183/htdocs/socialflikx/Flikx/config.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/public/css/permissions.css",
+		"/C/xampp183/htdocs/socialflikx/Flikx/index.php",
+		"/C/xampp183/htdocs/socialflikx/profile/viewProfile.php",
+		"/C/xampp/htdocs/tm1/common/crud_func.php",
+		"/C/xampp/htdocs/tm1/common/ProcessOrder.php",
+		"/C/xampp183/htdocs/web2prj1/index.htm",
+		"/C/xampp/htdocs/socialdb/Flikx/index.php",
+		"/C/xampp/htdocs/socialdb/Flikx/login.php",
+		"/C/xampp/htdocs/socialdb/Flikx/signup.php",
+		"/C/xampp/htdocs/socialdb/Flikx/profile.php",
+		"/C/xampp/htdocs/socialdb/Flikx/admin.php",
+		"/C/xampp/htdocs/socialdb/common/footer.php",
+		"/C/xampp/htdocs/socialdb/profile/listProfile.php",
+		"/C/xampp/htdocs/socialdb/profile/viewProfile.php",
+		"/C/Users/Valdeck/Downloads/phpCrud.php",
+		"/C/Users/Valdeck/Downloads/socialdb_sp.sql",
+		"/C/xampp/htdocs/socialflikx/dashboard.php",
+		"/C/xampp/htdocs/socialflikx/common/ProcessVCrud.php",
+		"/C/xampp/htdocs/socialflikx/group_table/listGroup_table.php",
+		"/C/xampp/htdocs/socialflikx/common/VCrud.class.php",
+		"/C/xampp/htdocs/socialflikx/profile/index.php",
+		"/C/xampp/htdocs/socialflikx/post/index.php",
+		"/C/xampp/htdocs/socialflikx/Flikx/signup.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/lots/index.blade.php",
+		"/C/xampp/htdocs/socialflikx/friends.php",
+		"/C/xampp/htdocs/socialdb/post/listPost.php",
+		"/C/xampp/htdocs/socialdb/Flikx/config.php",
+		"/C/xampp/htdocs/socialdb/Flikx/head.php",
+		"/C/xampp/htdocs/socialdb/Flikx/logout.php",
+		"/C/xampp/htdocs/socialflikx/common/header.php",
+		"/C/xampp/htdocs/socialflikx/post/enterNewPost.php",
+		"/C/xampp/htdocs/socialflikx/readme.md",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/models/Lot.php",
+		"/C/Users/Valdeck/AppData/Local/Temp/7zO7223.tmp/df-number-format.jquery.json",
+		"/C/Users/Valdeck/Dropbox/socialflikx/socialdb(1).sql",
+		"/C/xampp/htdocs/socialflikx/tinymce/plugins/jbimages/config.php",
+		"/C/xampp/htdocs/socialdb/common/header.php",
+		"/C/xampp/htdocs/socialflikx/common/setup.php",
+		"/C/Users/Valdeck/Downloads/projectfile(1).sql",
+		"/C/xampp/htdocs/socialdb/Flikx/landingpage.html",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/models/Booking.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/validators.php",
+		"/C/xampp/htdocs/lzyfocus_simple/common/dbConnection.php",
+		"/C/xampp/htdocs/citrad/index.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve/content.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve/page.php",
+		"/C/xampp183/htdocs/assemblyhall/wp-content/themes/twentytwelve/index.php",
+		"/C/Users/Valdeck/Downloads/backup-tm1.in-1-25-2014/public_html/tm1/smarty/libs/plugins/modifier.regex_replace.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/models/Media.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/models/SalesKit.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/config/app.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/database/migrations/2014_04_07_143410_remove_foriegnkey_constraints_from_sales_kits_table.php",
+		"/C/xampp183/htdocs/web2prj1/card.js",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/sales_kits/create.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/sales_kits/edit.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/database/migrations/2014_04_06_232216_create_medium_sales_kit_table.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/composer.json",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/database/seeds/UsersTableSeeder.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/blocks/show.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/routes.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/projects/index.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/public/js/customvalidationfast.js",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/bookings/create.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/database/seeds/DiscountTableSeeder.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/controllers/BookingsController.php",
+		"/C/xampp/htdocs/biztext/wp-content/themes/twentythirteen-child/page-170.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/bookings/edit.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/models/Purchaser.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/controllers/BlocksController.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/bookings/fastBookProperty.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/bookings/fastBookPurchaser.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/bookings/createfast.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/config/database.php",
+		"/C/xampp183/htdocs/idalo_eoappserver/app/macros/form.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/app/views/layouts/booking.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver/public/js/validation.js",
+		"/C/xampp183/htdocs/idalo_eoappserver/app/views/bookings/create.blade.php",
+		"/C/xampp183/htdocs/idalo_eoappserver/app/views/bookings/createfast.blade.php",
+		"/C/Users/Valdeck/dev/idalo_eoappserver_old/composer.json",
+		"/C/xampp183/htdocs/biztxt/app/controllers/GroupsController.php",
+		"/C/xampp183/htdocs/idalo_eoappserver/app/routes.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\project3",
+			"C:\\Users\\Valdeck\\Documents\\Nitrous\\",
+			"C:\\Users\\Valdeck\\Documents\\Nitrous\\myproject\\",
+			"C:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\myproject\\project4,C:\\Users\\Valdeck\\Documents\\project4",
+			"C:\\Users\\Valdeck\\Documents\\Nitrous\\highgarden-django\\myproject\\project4",
+			"",
+			"C:\\Users\\Valdeck\\dev\\idalo_eoappserver\\",
+			"C:\\xampp183\\htdocs\\idalo_eoappserver\\",
+			"C:\\Users\\Valdeck\\dev\\idalo_eoappserver\\",
+			"C:\\Users\\Valdeck\\dev\\idalo_eoappserver\\app\\database\\seeds",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav class",
+			"sendmessage",
+			"generate_id",
+			"generate_id(",
+			"sendmessage(",
+			"join_game(",
+			"two_player_network(",
+			"two_player_network",
+			"route('",
+			"*route()",
+			"route()",
+			"add_url_rule",
+			"two_player_network",
+			"Memory Card Game!",
+			"cardback.png",
+			"jamrockmedz",
+			"jamrock",
+			";\n",
+			"color",
+			"(images",
+			"\")",
+			"MYSQL_RESULT($result,$i,\"",
+			"fast_b",
+			"@media (max-width:",
+			"@media",
+			"media",
+			"get_te",
+			"permission-group",
+			".permission-group",
+			"this->",
+			"lname",
+			"fname",
+			"this->",
+			"session",
+			"p>",
+			" height=\"20\"",
+			"showRelatedData",
+			" height=\"30\"",
+			"column 2",
+			"span-3",
+			"_upd",
+			"itiss_",
+			"main",
+			"href=\"/",
+			"1",
+			"carousel",
+			"horizontal",
+			"booking",
+			"belongsTo",
+			"{{--<",
+			":&nbsp;",
+			"pValid",
+			"fastbookPu",
+			"$value",
+			"create",
+			"edit",
+			"\n        ",
+			"blocks",
+			"blockid",
+			"projects",
+			"confirmation()",
+			"$property",
+			"$discount",
+			"Input::get('",
+			"isset($_GET[",
+			">>>",
+			"blocks.show",
+			"fastPurchaser",
+			"fastpurchaser",
+			"fastBooking",
+			"upload_success_signal_buyer",
+			"fastbooking",
+			"signal_buyer",
+			"filename_signal_buyer",
+			"bookingid",
+			") = ",
+			"$fastbooking[",
+			"booking",
+			"blocks",
+			"blocks/",
+			"bookings.store",
+			"hidden",
+			"GET",
+			"infostep1",
+			"BookingsController@create",
+			"saleskits",
+			"createfast",
+			"bookingfast",
+			"infostep1",
+			"next",
+			"$errors",
+			"contact_detail",
+			"hse:",
+			"errors",
+			"validation.js",
+			"settings",
+			"this field is required",
+			"passportno",
+			"val(",
+			"val()",
+			" val()",
+			"val()",
+			"'hse'",
+			"hse",
+			"off",
+			"'hp'",
+			"hp",
+			"Off",
+			"select",
+			"nricval",
+			"$booking['id']",
+			"$discounts",
+			"}",
+			"{",
+			"submit",
+			"discount_id",
+			"nricValidate",
+			"alert",
+			"validateNRIC",
+			"nric",
+			"alert",
+			"valid()",
+			"#myform",
+			"validate(",
+			"controlPre",
+			"enablebutton",
+			"disablebutton()",
+			"valid()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(../images",
+			"",
+			"$result->",
+			"permission-row",
+			".permission-row",
+			"",
+			"lastname",
+			"firstname",
+			"",
+			"li>",
+			"",
+			"relatedData",
+			"",
+			"href=\"",
+			"2",
+			"sidebar",
+			"carousel",
+			"belongsToMany",
+			"  ",
+			"validate",
+			"$input->",
+			"Input::get",
+			"fastBuyer",
+			"fastPurchaser",
+			"fastBooking",
+			"upload",
+			"buyerFilename",
+			",",
+			"Form::hidden(",
+			"fastbooking",
+			"POST",
+			"property",
+			"$booking->id",
+			"$booking['id']",
+			"$booking->id",
+			"->delete()",
+			"fkr",
+			"",
+			"contact",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1214,
+								1214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/memory.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26724,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										226,
+										238
+									],
+									[
+										462,
+										474
+									],
+									[
+										697,
+										709
+									],
+									[
+										1016,
+										1028
+									],
+									[
+										1268,
+										1280
+									],
+									[
+										1601,
+										1613
+									],
+									[
+										1799,
+										1811
+									],
+									[
+										2091,
+										2103
+									],
+									[
+										2472,
+										2484
+									],
+									[
+										2772,
+										2784
+									],
+									[
+										3085,
+										3097
+									],
+									[
+										3211,
+										3223
+									],
+									[
+										3315,
+										3327
+									],
+									[
+										3634,
+										3646
+									],
+									[
+										4041,
+										4053
+									],
+									[
+										4176,
+										4188
+									],
+									[
+										4404,
+										4416
+									],
+									[
+										4728,
+										4740
+									],
+									[
+										4964,
+										4976
+									],
+									[
+										5199,
+										5211
+									],
+									[
+										5518,
+										5530
+									],
+									[
+										5770,
+										5782
+									],
+									[
+										6103,
+										6115
+									],
+									[
+										6301,
+										6313
+									],
+									[
+										6593,
+										6605
+									],
+									[
+										6974,
+										6986
+									],
+									[
+										7274,
+										7286
+									],
+									[
+										7587,
+										7599
+									],
+									[
+										7713,
+										7725
+									],
+									[
+										7817,
+										7829
+									],
+									[
+										8136,
+										8148
+									],
+									[
+										8543,
+										8555
+									],
+									[
+										8678,
+										8690
+									],
+									[
+										8906,
+										8918
+									],
+									[
+										9332,
+										9339
+									],
+									[
+										9411,
+										9418
+									],
+									[
+										9716,
+										9723
+									],
+									[
+										9745,
+										9752
+									],
+									[
+										9858,
+										9865
+									],
+									[
+										10049,
+										10056
+									],
+									[
+										10182,
+										10189
+									],
+									[
+										10337,
+										10344
+									],
+									[
+										10491,
+										10498
+									],
+									[
+										10628,
+										10635
+									],
+									[
+										10785,
+										10792
+									],
+									[
+										11097,
+										11104
+									],
+									[
+										11244,
+										11251
+									],
+									[
+										11357,
+										11364
+									],
+									[
+										11497,
+										11504
+									],
+									[
+										11785,
+										11792
+									],
+									[
+										11947,
+										11954
+									],
+									[
+										12164,
+										12171
+									],
+									[
+										12338,
+										12345
+									],
+									[
+										12611,
+										12618
+									],
+									[
+										12814,
+										12821
+									],
+									[
+										12967,
+										12974
+									],
+									[
+										13176,
+										13183
+									],
+									[
+										13480,
+										13487
+									],
+									[
+										13739,
+										13746
+									],
+									[
+										14002,
+										14009
+									],
+									[
+										14239,
+										14246
+									],
+									[
+										14380,
+										14387
+									],
+									[
+										14442,
+										14449
+									],
+									[
+										14570,
+										14577
+									],
+									[
+										14791,
+										14798
+									],
+									[
+										14906,
+										14913
+									],
+									[
+										15022,
+										15029
+									],
+									[
+										15149,
+										15156
+									],
+									[
+										15298,
+										15305
+									],
+									[
+										15651,
+										15658
+									],
+									[
+										15712,
+										15719
+									],
+									[
+										15814,
+										15821
+									],
+									[
+										16063,
+										16070
+									],
+									[
+										16205,
+										16212
+									],
+									[
+										16242,
+										16249
+									],
+									[
+										16443,
+										16450
+									],
+									[
+										16522,
+										16529
+									],
+									[
+										16827,
+										16834
+									],
+									[
+										16856,
+										16863
+									],
+									[
+										16969,
+										16976
+									],
+									[
+										17160,
+										17167
+									],
+									[
+										17293,
+										17300
+									],
+									[
+										17448,
+										17455
+									],
+									[
+										17602,
+										17609
+									],
+									[
+										17739,
+										17746
+									],
+									[
+										17896,
+										17903
+									],
+									[
+										18208,
+										18215
+									],
+									[
+										18355,
+										18362
+									],
+									[
+										18468,
+										18475
+									],
+									[
+										18608,
+										18615
+									],
+									[
+										18896,
+										18903
+									],
+									[
+										19058,
+										19065
+									],
+									[
+										19275,
+										19282
+									],
+									[
+										19449,
+										19456
+									],
+									[
+										19722,
+										19729
+									],
+									[
+										19925,
+										19932
+									],
+									[
+										20078,
+										20085
+									],
+									[
+										20287,
+										20294
+									],
+									[
+										20591,
+										20598
+									],
+									[
+										20850,
+										20857
+									],
+									[
+										21113,
+										21120
+									],
+									[
+										21350,
+										21357
+									],
+									[
+										21491,
+										21498
+									],
+									[
+										21553,
+										21560
+									],
+									[
+										21681,
+										21688
+									],
+									[
+										21902,
+										21909
+									],
+									[
+										22017,
+										22024
+									],
+									[
+										22133,
+										22140
+									],
+									[
+										22260,
+										22267
+									],
+									[
+										22409,
+										22416
+									],
+									[
+										22762,
+										22769
+									],
+									[
+										22823,
+										22830
+									],
+									[
+										22925,
+										22932
+									],
+									[
+										23174,
+										23181
+									],
+									[
+										23316,
+										23323
+									],
+									[
+										23353,
+										23360
+									],
+									[
+										23643,
+										23661
+									],
+									[
+										23708,
+										23726
+									],
+									[
+										24012,
+										24031
+									],
+									[
+										24321,
+										24331
+									],
+									[
+										24675,
+										24687
+									],
+									[
+										25025,
+										25037
+									],
+									[
+										25222,
+										25234
+									],
+									[
+										25580,
+										25591
+									],
+									[
+										25777,
+										25788
+									],
+									[
+										26155,
+										26166
+									],
+									[
+										26559,
+										26568
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								26364,
+								26364
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 12,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11655.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/app.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1828,
+								1828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/memory.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1782,
+								1782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 902.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1639,
+								1639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/host_player.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/static/js/nav.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/welcome.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "contact_menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "user_menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/project3/static/js/two_player.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/model.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1279,
+								1279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/Valdeck/Documents/Nitrous/highgarden-django/myproject/project4/app.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/Valdeck/Documents/project4/model.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"project": "info3180 project3.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"app\\views\\subscribers\\list.blade.php"
+			],
+			[
+				"form",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Html\\FormBuilder.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

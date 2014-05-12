@@ -1,0 +1,33 @@
+.navbar-inverse .navbar-nav > li > a 
+{
+	text-align: left;
+}
+
+#circle_option
+{
+	display: block;
+	background: rgb(20, 255, 0);
+	border-radius: 20px;
+	background-size: 5px 5px;	
+	box-shadow: 0 0 20px #111 inset, 0 0 10px rgb(1, 53, 49);
+	opacity: .8;
+	height: 130px;
+	vertical-align: middle;
+	text-align: center;
+	text-align: -webkit-center;
+	text-decoration: none;
+}
+
+#circle_option h2
+{
+	line-height: 130px;
+    color: #ffffff;
+}
+
+
+#circle_option:hover
+{
+	background: rgb(20, 255, 197);
+	background-size: 5px 5px;
+	box-shadow: 0 0 20px #111 inset, 0 0 10px rgb(1, 53, 49);
+}

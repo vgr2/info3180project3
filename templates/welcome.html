@@ -1,0 +1,25 @@
+# extends 'base.html'
+
+# block header
+<link rel="stylesheet" type"text/css" href="/p/css/menu.css"/>
+<link rel="stylesheet" type"text/css" href="/p/css/card_hand.css"/>
+  <div class="jumbotron">
+    <div class="container">
+      <h1>Test Your Memory!</h1>
+      <p></p>
+    </div>
+  </div>
+# endblock
+
+# block content
+
+  <div class="row">
+    <h1 align="center" style="color: white;">Please select game option :</h1>
+    <div class="col-sm-6 col-md-5 col-lg-4" >
+      	<a id="circle_option" href="{{url_for('one_player')}}"><H2>One Player Game</H2></a>
+    </div>  
+    <div class="col-sm-6 col-md-5 col-lg-4">
+  		<a id="circle_option" href="{{url_for('two_player')}}"><H2>Two Player Game</H2></a>
+    </div>
+	</div>	  
+# endblock
