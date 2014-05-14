@@ -29,18 +29,13 @@ if config.DEVELOPMENT:
   app.wsgi_app = debug.DebuggedApplication(app.wsgi_app, evalex=True)
 
 
-###############################################################################
-# Main page
-###############################################################################
+
 @app.route('/')
 def welcome():
   return flask.render_template('welcome.html', html_class='welcome')
 
    
     
-###############################################################################
-# Sitemap stuff
-###############################################################################
 @app.route('/sitemap.xml')
 def sitemap():
   response = flask.make_response(flask.render_template(
@@ -52,9 +47,6 @@ def sitemap():
   return response
 
 
-###############################################################################
-# Profile stuff
-###############################################################################
 class ProfileUpdateForm(wtf.Form):
   name = wtf.StringField('Name',
       [wtf.validators.required()], filters=[util.strip_filter],
@@ -90,9 +82,6 @@ def profile():
     )
 
 
-###############################################################################
-# Feedback
-###############################################################################
 class FeedbackForm(wtf.Form):
   subject = wtf.StringField('Subject',
       [wtf.validators.required()], filters=[util.strip_filter],
@@ -133,10 +122,6 @@ def feedback():
       form=form,
     )
 
-
-###############################################################################
-# Error Handling
-###############################################################################
 @app.errorhandler(400)  # Bad Request
 @app.errorhandler(401)  # Unauthorized
 @app.errorhandler(403)  # Forbidden
